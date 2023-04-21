@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\bin\Debug\net6.0\CalculoImpostoExercicio.exe
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\bin\Debug\net6.0\CalculoImpostoExercicio.deps.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\bin\Debug\net6.0\CalculoImpostoExercicio.runtimeconfig.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\bin\Debug\net6.0\CalculoImpostoExercicio.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\bin\Debug\net6.0\CalculoImpostoExercicio.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\CalculoImpostoExercicio.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\CalculoImpostoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\CalculoImpostoExercicio.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\CalculoImpostoExercicio.AssemblyInfo.cs
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\CalculoImpostoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\CalculoImpostoExercicio.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\refint\CalculoImpostoExercicio.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\CalculoImpostoExercicio.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\CalculoImpostoExercicio.genruntimeconfig.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\CalculoImpostoExercicio\CalculoImpostoExercicio\obj\Debug\net6.0\ref\CalculoImpostoExercicio.dll
